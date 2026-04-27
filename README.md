@@ -47,6 +47,10 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Farheen078&theme=dark)
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Farheen078/Farheen078/blob/output/github-contribution-grid-snake.svg)
+
 ## 🔥 Current Focus
 
 - Improving backend skills (APIs, databases)  
