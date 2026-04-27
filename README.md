@@ -4,7 +4,7 @@
 🚀 Building real-world apps with Flutter, Firebase & Modern Web Tech
 ---
 
-🚀 What I Do
+## 🚀 What I Do
 📱 Build cross-platform apps using Flutter
 🔥 Create backend systems with Firebase & Node.js
 🌐 Develop responsive web apps using React & Tailwind
