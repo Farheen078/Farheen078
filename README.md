@@ -1,15 +1,21 @@
 # Hi 👋, I'm Farheen Saba
 
-💻 Full Stack Developer 
-🚀 Dart | Flutter | Firebase | 
-🎯 I love building apps and learning new tech
-
+💻 Flutter & Full Stack Developer
+🚀 Building real-world apps with Flutter, Firebase & Modern Web Tech
 ---
 
-## 🌐 Socials
-- LinkedIn:https://www.linkedin.com/in/farheen-saba-2955682b4/
-- Portfolio: https://farheen-saba-portfolio-4ae1.vercel.app/
+🚀 What I Do
+📱 Build cross-platform apps using Flutter
+🔥 Create backend systems with Firebase & Node.js
+🌐 Develop responsive web apps using React & Tailwind
+📚 Currently improving Full Stack Development & System Design
+
 ## 💻 Tech Stack
+
+Frontend: React, Tailwind CSS
+Mobile: Flutter, Dart
+Backend: Node.js, Firebase
+Database: PostgreSQL, MySQL
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -39,8 +45,11 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Farheen078&theme=dark)
 
-## 🏆 Achievements
+##🔥 Current Focus
+Improving backend skills (APIs, databases)
+Building production-level apps
+Preparing for developer roles
 
-- Built Flutter eCommerce App
-- Built Portfolio Website
-- Learning Full Stack Development
+## 🌐 Connect with me
+- LinkedIn:https://www.linkedin.com/in/farheen-saba-2955682b4/
+- Portfolio: https://farheen-saba-portfolio-4ae1.vercel.app/
