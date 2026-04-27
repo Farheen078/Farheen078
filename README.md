@@ -5,17 +5,17 @@
 ---
 
 ## 🚀 What I Do
-📱 Build cross-platform apps using Flutter
-🔥 Create backend systems with Firebase & Node.js
-🌐 Develop responsive web apps using React & Tailwind
-📚 Currently improving Full Stack Development & System Design
+-📱 Build cross-platform apps using Flutter
+-🔥 Create backend systems with Firebase & Node.js
+-🌐 Develop responsive web apps using React & Tailwind
+-📚 Currently improving Full Stack Development & System Design
 
 ## 💻 Tech Stack
 
-Frontend: React, Tailwind CSS
-Mobile: Flutter, Dart
-Backend: Node.js, Firebase
-Database: PostgreSQL, MySQL
+-Frontend: React, Tailwind CSS
+-Mobile: Flutter, Dart
+-Backend: Node.js, Firebase
+-Database: PostgreSQL, MySQL
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -45,10 +45,10 @@ Database: PostgreSQL, MySQL
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Farheen078&theme=dark)
 
-##🔥 Current Focus
-Improving backend skills (APIs, databases)
-Building production-level apps
-Preparing for developer roles
+## 🔥 Current Focus
+-Improving backend skills (APIs, databases)
+-Building production-level apps
+-Preparing for developer roles
 
 ## 🌐 Connect with me
 - LinkedIn:https://www.linkedin.com/in/farheen-saba-2955682b4/
