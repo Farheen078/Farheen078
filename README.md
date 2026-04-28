@@ -16,7 +16,7 @@
 ## 💻 Tech Stack
 - **Frontend:** React, Tailwind CSS  
 - **Mobile:** Flutter, Dart  
-- **Backend:** Node.js, Firebase  
+- **Backend:** python, Firebase  
 - **Database:** PostgreSQL, MySQL  
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
