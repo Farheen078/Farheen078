@@ -1,12 +1,9 @@
 # Hi 👋, I'm Farheen Saba
 
-💻 Flutter & Full Stack Developer  
-🚀 Building real-world apps with Flutter, Firebase & Modern Web Tech  
-
+💻 Full Stack Developer  
 ---
 
-## 🚀 What I Do
-- 📱 Build cross-platform apps using Flutter  
+## 🚀 What I Do 
 - 🔥 Create backend systems with Firebase & Node.js  
 - 🌐 Develop responsive web apps using React & Tailwind  
 - 📚 Currently improving Full Stack Development & System Design  
@@ -15,7 +12,6 @@
 
 ## 💻 Tech Stack
 - **Frontend:** React, Tailwind CSS  
-- **Mobile:** Flutter, Dart  
 - **Backend:** python, Firebase  
 - **Database:** PostgreSQL, MySQL  
 
