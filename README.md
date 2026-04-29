@@ -39,10 +39,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Farheen078&layout=compact)
 
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Farheen078&theme=dark)
-
 
 ## 🔥 Current Focus
 
